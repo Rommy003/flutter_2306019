@@ -1,4 +1,10 @@
 # aplikasi_2306019
+**Romy Zaenul Alam**
+
+**2306019**
+
+**Tugas 2 Praktikum Pemrograman Mobile**
+
 
 Proyek Flutter ini dikembangkan sebagai bagian dari praktikum **Modul 2 - Konsep Dasar Widget**. Aplikasi ini mendemonstrasikan penggunaan widget layouting dasar dan pengaturan gaya teks (styling) di Flutter.
 
